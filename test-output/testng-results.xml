@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+      <class name="testng.SimpleTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testng.SimpleTest@1f28c152]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testng.SimpleTest@1f28c152]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMethodsTwo()[pri:0, instance:testng.SimpleTest@1f28c152]" name="testMethodsTwo" duration-ms="4" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsTwo -->
+        <test-method status="PASS" signature="testMethodsOne()[pri:0, instance:testng.SimpleTest@1f28c152]" name="testMethodsOne" duration-ms="5" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng.SimpleTest@1f28c152]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng.SimpleTest@1f28c152]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-02-15T08:58:38 CST" finished-at="2020-02-15T08:58:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testng.SimpleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
