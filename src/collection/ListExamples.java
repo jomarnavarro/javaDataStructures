@@ -26,8 +26,8 @@ public class ListExamples {
 		}
 		
 		//
-		for(Object o: list) {
-			System.out.println(o);
+		for(Object object: list) {
+			System.out.println(object);
 		}
 		
 		Collection<String> anotherStrCollection = new ArrayList<String>();
